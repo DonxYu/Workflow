@@ -1,0 +1,52 @@
+{
+  "success": true,
+  "total_scenes": 3,
+  "input_content": "\n小红书标题：职场真相：为什么聪明人都在\"装傻\"？\n\n正文内容：\n\n你有没有发现，职场里那些真正厉害的人，往往看起来\"不太聪明\"？\n\n他们不会在会议上抢着发言，不会炫耀自己的成就，甚至有时候会\"装傻\"问一些基础问题。\n\n但奇怪的是，这些人往往升职最快，人缘最好，资源最多。\n\n为什么？\n\n1️⃣ 真正的聪明人懂得\"示弱\"\n\n在《道德经》里有一句话：\"大智若愚，大巧若拙。\"\n\n真正的高手，从来不会让自...",
+  "scenes": [
+    {
+      "scene_id": "scene_1",
+      "scene_title": "开场引入",
+      "scene_description": "画面从职场办公室开始，镜头缓缓推进到一位正在思考的职场人士，背景音乐轻柔，营造思考氛围。人物表情专注，周围环境整洁有序，体现专业感。",
+      "duration": 8,
+      "visual_elements": [
+        "办公室环境",
+        "思考的职场人士",
+        "整洁的桌面",
+        "柔和的灯光"
+      ],
+      "text_overlay": "为什么聪明人都在'装傻'？",
+      "background_music": "轻柔的思考音乐",
+      "transition_effect": "淡入效果"
+    },
+    {
+      "scene_id": "scene_2",
+      "scene_title": "核心观点展示",
+      "scene_description": "画面切换到会议室场景，展示不同的人在会议中的表现。聪明人低调观察，而急于表现的人在高谈阔论。通过对比展现'装傻'的智慧。",
+      "duration": 8,
+      "visual_elements": [
+        "会议室场景",
+        "不同性格的人物",
+        "对比画面",
+        "文字动画"
+      ],
+      "text_overlay": "真正的智慧在于'藏拙'",
+      "background_music": "渐强的背景音乐",
+      "transition_effect": "切换转场"
+    },
+    {
+      "scene_id": "scene_3",
+      "scene_title": "总结升华",
+      "scene_description": "画面回到个人特写，人物露出会心的微笑，背景逐渐虚化，突出人物形象。最后出现核心观点文字，配合优雅的动画效果。",
+      "duration": 8,
+      "visual_elements": [
+        "人物特写",
+        "会心微笑",
+        "虚化背景",
+        "文字动画"
+      ],
+      "text_overlay": "真正的智慧，往往藏在'不争'之中",
+      "background_music": "升华的音乐结尾",
+      "transition_effect": "淡出效果"
+    }
+  ]
+}

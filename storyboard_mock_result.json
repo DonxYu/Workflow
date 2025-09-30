@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "total_scenes": 3,
+  "test_mode": "mock",
+  "scenes": [
+    {
+      "scene_id": "scene_1",
+      "scene_title": "开场引入",
+      "scene_description": "职场办公室场景，思考的职场人士",
+      "duration": 8,
+      "visual_elements": [
+        "办公室环境",
+        "思考的职场人士"
+      ],
+      "text_overlay": "为什么聪明人都在'装傻'？",
+      "background_music": "轻柔的思考音乐",
+      "transition_effect": "淡入效果"
+    },
+    {
+      "scene_id": "scene_2",
+      "scene_title": "核心观点展示",
+      "scene_description": "会议室对比场景，展现'装傻'智慧",
+      "duration": 8,
+      "visual_elements": [
+        "会议室场景",
+        "不同性格的人物"
+      ],
+      "text_overlay": "真正的智慧在于'藏拙'",
+      "background_music": "渐强的背景音乐",
+      "transition_effect": "切换转场"
+    },
+    {
+      "scene_id": "scene_3",
+      "scene_title": "总结升华",
+      "scene_description": "人物特写，升华主题",
+      "duration": 8,
+      "visual_elements": [
+        "人物特写",
+        "会心微笑"
+      ],
+      "text_overlay": "真正的智慧，往往藏在'不争'之中",
+      "background_music": "升华的音乐结尾",
+      "transition_effect": "淡出效果"
+    }
+  ]
+}

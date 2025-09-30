@@ -1,0 +1,39 @@
+# 小红书笔记搜索与内容处理工作流依赖包
+
+# HTTP请求库
+aiohttp>=3.8.0
+requests>=2.28.0
+
+# Notion API客户端
+notion-client>=2.0.0
+
+# 数据处理
+dataclasses-json>=0.5.7
+
+# 异步支持
+asyncio-throttle>=1.0.2
+
+# 日志和配置
+python-dotenv>=0.19.0
+
+# 类型提示支持
+typing-extensions>=4.0.0
+
+# JSON处理
+ujson>=5.1.0
+
+# 日期时间处理
+python-dateutil>=2.8.0
+
+# 正则表达式增强
+regex>=2022.1.18
+
+# 文本处理
+beautifulsoup4>=4.11.0
+lxml>=4.9.0
+
+# 加密和编码
+cryptography>=3.4.8
+
+# 系统工具
+pathlib2>=2.3.7

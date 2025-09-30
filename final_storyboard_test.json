@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "total_scenes": 3,
+  "scenes": [
+    {
+      "scene_id": "scene_1",
+      "scene_title": "职场观察",
+      "scene_description": "开场以办公室为背景，镜头缓缓推进一位沉稳的职场精英。他安静地坐在工位上，周围同事在激烈讨论时他只是微笑倾听。画面切换到会议室，当大家都在抢着发言时，他默默记录要点。",
+      "duration": 8,
+      "visual_elements": [
+        "现代办公室环境",
+        "沉稳的职场精英特写",
+        "会议室讨论场景",
+        "笔记本特写"
+      ],
+      "text_overlay": "为什么聪明人都在装傻？",
+      "background_music": "轻快略带思考感的职场BGM",
+      "transition_effect": "淡入淡出，镜头平滑切换"
+    },
+    {
+      "scene_id": "scene_2",
+      "scene_title": "智慧展现",
+      "scene_description": "展示主角在关键时刻的表现。先是他谦虚地向同事请教基础问题，接着在重要项目上提出关键建议。画面对比其他爱表现的同事处处碰壁，而主角却获得领导赞许和同事认可。",
+      "duration": 8,
+      "visual_elements": [
+        "谦虚请教的动作",
+        "关键建议的白板展示",
+        "领导赞许的表情",
+        "团队协作画面"
+      ],
+      "text_overlay": "藏拙是更高明的智慧",
+      "background_music": "渐入佳境的励志音乐",
+      "transition_effect": "滑动转场，突出重点时刻"
+    },
+    {
+      "scene_id": "scene_3",
+      "scene_title": "成果呈现",
+      "scene_description": "最终画面显示主角获得晋升，团队为他庆祝。镜头拉远，展现他在职场中的良好人际关系和资源网络。最后以主角自信而谦逊的微笑特写结束。",
+      "duration": 8,
+      "visual_elements": [
+        "晋升通知特写",
+        "团队庆祝场景",
+        "人际关系网络图示",
+        "自信微笑特写"
+      ],
+      "text_overlay": "懂得隐藏的人走得更远",
+      "background_music": "圆满成就感的收尾音乐",
+      "transition_effect": "渐隐收尾，留下思考空间"
+    }
+  ]
+}
